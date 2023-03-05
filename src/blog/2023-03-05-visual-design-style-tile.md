@@ -13,3 +13,5 @@ imageAlt: "Style tile that features typography, color schemes, button layouts,
   and extras "
 ---
 ### Description of Style Tile - Color Combinations Galore
+
+T﻿his is a style tile done in Figma for Web Development II, where it was the starting point of what theme I wanted to do for the final project, which was the customization of the Style Stage template created by Stephanie Eckles, a web developer.
