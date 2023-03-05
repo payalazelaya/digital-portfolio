@@ -9,8 +9,8 @@ tags:
   - figma
   - visual-design
 image: /assets/blog/style-tile-1-.png
-imageAlt: "Style tile that features typography, color schemes, button layouts,
-  and extras "
+imageAlt: Style tile that features typography, color schemes, button layouts,
+  and extra things
 ---
 ### Description of Style Tile - Color Combinations Galore
 
