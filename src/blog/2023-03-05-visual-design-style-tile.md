@@ -6,6 +6,7 @@ description: A style tile done in Figma that covers design choices for the
 date: 2023-03-05T23:00:23.684Z
 tags:
   - post
+  - featured
   - figma
   - visual-design
 image: /assets/blog/style-tile-1-.png
