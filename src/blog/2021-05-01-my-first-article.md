@@ -1,14 +1,15 @@
 ---
 title: Visual Design - Club Poster
 author: "Paola Ayala Zelaya "
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
-  delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
-  aliquam?
-date: 2021-05-01
+description: A club poster for Society of Women Engineers honoring Club of the
+  Month in December 2022
+date: 2023-03-05T18:49:00.720Z
 tags:
   - post
-image: /assets/blog/article-1.jpg
+  - featured
+  - posters
+  - visual-design
+image: /assets/blog/com-swe-poster.png
 imageAlt: My First Article
 ---
 
