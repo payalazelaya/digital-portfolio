@@ -1,8 +1,8 @@
 ---
 title: Visual Design - Club Poster
 author: "Paola Ayala Zelaya "
-description: A club poster for Society of Women Engineers honoring Club of the
-  Month in December 2022
+description: A club poster for Society of Women Engineers Club (SWE) honoring
+  Club of the Month in December 2022
 date: 2023-03-05T19:04:20.069Z
 tags:
   - post
@@ -10,7 +10,8 @@ tags:
   - posters
   - visual-design
 image: /assets/blog/com-swe-poster.png
-imageAlt: My First Article
+imageAlt: A club poster that's designed neatly and professionally to show how
+  SWE was awarded Club of the Month
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
