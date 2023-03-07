@@ -13,4 +13,4 @@ imageAlt: "Painting that highlights warm vs cool colors and surrealism "
 ---
 ### D﻿escription of Painting - 
 
-T﻿his is a painting that I did in my Color Theory course where one of the weekly assignments was a painting focusing on Warm vs Colors and Surrealism as it was also the topic of the week learnt in class as well.
+T﻿his is a painting that I did in my Color Theory course where one of the weekly assignments was a painting focusing on Warm vs Colors and Surrealism at the same time. These topics were also topics that were gone over in class to get a better understanding of how to have depicted them in our paintings that we did individually.
