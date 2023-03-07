@@ -6,6 +6,7 @@ description: Sample image of the main page for my theme of the Style Stage
 date: 2023-03-07T00:23:07.494Z
 tags:
   - post
+  - featured
   - websites
   - web-design
 image: /assets/blog/main-page-for-style-stafe.png
