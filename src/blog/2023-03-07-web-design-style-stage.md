@@ -12,3 +12,5 @@ image: /assets/blog/main-page-for-style-stafe.png
 imageAlt: "Image of the main page for my theme of the Style Stage template "
 ---
 ### D﻿escription of Website - Style Stage: Shimmering Stars
+
+T﻿his is my theme of the Style Stage challenge that's made by Stephanie Eckles
