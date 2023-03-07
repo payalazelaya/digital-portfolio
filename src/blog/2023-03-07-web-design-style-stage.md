@@ -13,4 +13,6 @@ imageAlt: "Image of the main page for my theme of the Style Stage template "
 ---
 ### D﻿escription of Website - Style Stage: Shimmering Stars
 
-T﻿his is my theme of the Style Stage challenge that's made by Stephanie Eckles, a web developer. The challenge for this was it was to customize the Style Stage purely through Sass CSS without touching anything in regards to the already-made HTML that served to help customize the stage.
+T﻿his is my theme of the Style Stage challenge that's made by Stephanie Eckles, a web developer. The challenge for this was it was to customize the Style Stage purely through Sass CSS without touching anything in regards to the already-made HTML that served to help customize the stage. 
+
+[L﻿ink to Shimmering Stars](https://stylestage.dev/styles/shimmering-stars/)
