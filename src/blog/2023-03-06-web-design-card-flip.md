@@ -13,6 +13,6 @@ imageAlt: "Image of how the front of the animated card looks like "
 ---
 ### D﻿escription of Project - Card Flip: Music Theme
 
-
-
 [L﻿ink to Animated Card Flip](https://csscardflip-payalazelaya.netlify.app/)
+
+O﻿ne of the assignments done in Web Development II was creating an animated card flip when it was the week the topic of animations, transitions, and translations was gone over.
