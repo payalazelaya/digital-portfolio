@@ -1,8 +1,9 @@
 ---
 title: Web Design - Card Flip
 author: Paola Ayala Zelaya
-description: Sample image of how the front of the animated card looks like
-date: 2023-03-06T04:26:26.997Z
+description: Front and back view of an animated card flip done through CSS with
+  the help of HTML
+date: 2023-03-08T00:30:44.554Z
 tags:
   - post
   - websites
@@ -11,3 +12,7 @@ image: /assets/blog/card-flip-page.png
 imageAlt: "Image of how the front of the animated card looks like "
 ---
 ### D﻿escription of Project - Card Flip: Music Theme
+
+
+
+[L﻿ink to Animated Card Flip](https://csscardflip-payalazelaya.netlify.app/)
