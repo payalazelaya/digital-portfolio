@@ -1,7 +1,8 @@
 ---
 title: "Web Design - Simple Blog Website "
 author: Paola Ayala Zelaya
-description: "Sample screenshot of the homepage of my personal blog website "
+description: Sample screenshot of the homepage to my personal blog website
+  edited through Netlify CMS
 date: 2023-03-08T03:03:14.746Z
 tags:
   - post
