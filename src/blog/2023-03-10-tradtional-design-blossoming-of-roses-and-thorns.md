@@ -13,4 +13,4 @@ imageAlt: An image of roses and thorns in black and white to represent how lines
 ---
 ### D﻿escription of Design - Blossoming of Roses and Thorns
 
-T﻿his was one of the first assignments that I did in 2D Design that covered one of the principles of art, Line. Though, there was a twist to how we were supposed to capture line in this assignment by basing it off of the ideaology behind famous Japanese artist, Yayoi Kusama
+T﻿his was one of the first assignments that I did in 2D Design that covered one of the principles of art, Line. Though, there was a twist to how we were supposed to capture line in this assignment by basing it on the ideology behind the famous Japanese artist, Yayoi Kusama.  As Yayoi Kusama was famous for her artwork that covered the principle of line, the theme of the assignment was essentially, "Emulating Kusama." How I wanted to "emulate Kusama" was through a floral depiction of roses and thorns as I thought this would best suit with the theme of the assignment
