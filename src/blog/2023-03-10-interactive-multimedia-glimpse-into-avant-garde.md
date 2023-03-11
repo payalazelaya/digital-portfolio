@@ -9,8 +9,8 @@ tags:
 image: /assets/blog/glimpse-into-avant-garde.png
 imageAlt: Introductory slide to Glimpse Into Avant Garde
 ---
-### D﻿escription of PowerPoint - Glimpse Into Avant Garde
+### D﻿escription of PowerPoint - Glimpse Into Avant-Garde
 
-[﻿Link to Glimpse Into Avant Garde](<>)
+[﻿Link to Glimpse Into Avant-Garde](<>)
 
 T﻿his is the second and final project done in my Interactive Multimedia class where in this project, it was the purpose of utilizing all 5 building blocks of multimedia to create an application that would demonstrate how the 5 building blocks go hand in hand. Similarly to Multimedia and Me, I decided to do another PowerPoint presentation that in this case, covered one art period in art history called Art Nouveau and included famous paintings from the art period, a timeline, audio that would've been fitting for the art period, and a video that explained the significance of the Art Nouveau time period.
