@@ -13,3 +13,5 @@ imageAlt: "Static view of an SVG animation of certain elements "
 ### D﻿escription of Website - Counting Stars
 
 [L﻿ink to SVG Animation Website](https://counting-stars-payalazelaya.netlify.app/)
+
+T﻿his was another assignment to practice with the animation property through CSS, but in this case, it's with the help of making SVG's come to life and making them move at a certain speed.
