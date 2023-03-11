@@ -7,6 +7,7 @@ date: 2023-03-11T01:10:51.917Z
 tags:
   - post
   - traditional-design
+  - projects
 image: /assets/blog/emulating-kusama.jpg
 imageAlt: An image of roses and thorns in black and white to represent how lines
   can be formed and created together
