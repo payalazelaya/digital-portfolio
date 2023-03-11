@@ -6,6 +6,7 @@ date: 2023-03-09T20:12:27.279Z
 tags:
   - post
   - traditional-design
+  - projects
 image: /assets/blog/mapping-the-body.jpg
 imageAlt: Image of the expanded booklet for my final project in 2D Design
 ---
