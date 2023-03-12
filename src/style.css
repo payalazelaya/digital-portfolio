@@ -26,15 +26,15 @@
 
   --clr-primary-200: hsla(36, 100%, 95%);
   --clr-primary-300: hsla(36, 100%, 92%);
-  --clr-primary-400: hsla(180, 56%, 33%);
-  --clr-primary-500: hsla(180, 58%, 28%);
+  --clr-primary-400: hsl(180, 56%, 33%);
+  --clr-primary-500: hsl(180, 58%, 28%);
   --clr-primary-600: hsl(212, 51%, 31%);
   --clr-primary-700: hsl(237, 50%, 28%);
 
-  --clr-neutral-100: hsla(0, 0%, 100%, 1);
-  --clr-neutral-300: hsla(0, 0%, 50%, 1);
-  --clr-neutral-400: hsla(0, 0%, 40%, 1);
-  --clr-neutral-500: hsla(0, 0%, 60%, 1);
+  --clr-neutral-100: hsl(0, 0%, 100%);
+  --clr-neutral-300: hsl(0, 0%, 50%);
+  --clr-neutral-400: hsl(0, 0%, 40%);
+  --clr-neutral-500: hsl(0, 0%, 60%);
   --clr-neutral-800: hsl(236, 100%, 11%);
   --clr-neutral-900: hsl(0, 0%, 0%);
 }
@@ -237,7 +237,7 @@ section,
 
 .nav-list a:focus,
 .nav-list a:hover {
-  color: var(--clr-primary-400);
+  color: var(--clr-primary-600);
   text-decoration: underline;
 }
 
