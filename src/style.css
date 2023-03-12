@@ -142,10 +142,7 @@ body {
   color: var(--clr-neutral-800);
 }
 
-h1 {
-  margin: 0.5rem;
-}
-
+h1,
 h2,
 h3 {
   font-family: var(--ff-heading);
