@@ -237,8 +237,9 @@ section,
 
 .nav-list a:focus,
 .nav-list a:hover {
-  color: var(--clr-primary-600);
-  text-decoration: underline;
+  color: var(--clr-primary-700);
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
 }
 
 /* //////////////////////
