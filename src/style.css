@@ -143,7 +143,7 @@ body {
 }
 
 h1 {
-  margin-inline: 1rem;
+  margin: 1rem;
 }
 
 h2,
@@ -209,7 +209,7 @@ section,
 }
 
 .article-title {
-  font-size: var(--fs-800);
+  font-size: var(--fs-700);
 }
 
 .section-title {
