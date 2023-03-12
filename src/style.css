@@ -200,7 +200,7 @@ section,
 }
 
 .section-title {
-  color: hsl(180, 57%, 27%);
+  color: var(--clr-primary-600);
 }
 
 .article-title {
@@ -238,8 +238,7 @@ section,
 .nav-list a:focus,
 .nav-list a:hover {
   color: var(--clr-primary-700);
-  text-decoration-line: underline;
-  text-decoration-style: wavy;
+  text-decoration: underline wavy;
 }
 
 /* //////////////////////
