@@ -28,6 +28,8 @@
   --clr-primary-300: hsla(36, 100%, 92%);
   --clr-primary-400: hsla(180, 56%, 33%);
   --clr-primary-500: hsla(180, 58%, 28%);
+  --clr-primary-600: hsl(212, 51%, 31%);
+  --clr-primary-700: hsl(237, 50%, 28%);
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
