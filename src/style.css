@@ -148,7 +148,7 @@ h3 {
   font-family: var(--ff-heading);
   font-weight: var(--fw-900);
   line-height: 1.1;
-  padding-block-start: 10px;
+  padding-block-start: 13px;
 }
 
 strong {
