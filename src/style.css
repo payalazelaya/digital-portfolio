@@ -157,7 +157,7 @@ strong {
 
 section,
 .section {
-  padding: min(10vh, 10em) 0;
+  padding: min(10vh, 2em) 0;
 }
 
 .hero {
@@ -166,7 +166,6 @@ section,
 
 .hero__posts {
   background-color: var(--clr-primary-200);
-  padding: 0;
 }
 
 /* //////////////////////
