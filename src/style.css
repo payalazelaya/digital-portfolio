@@ -166,6 +166,7 @@ section,
 
 .hero__posts {
   background-color: var(--clr-primary-200);
+  padding: 0;
 }
 
 /* //////////////////////
