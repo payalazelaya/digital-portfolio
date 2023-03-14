@@ -160,6 +160,8 @@ section,
   padding: min(10vh, 10em) 0;
 }
 
+.section container 
+
 .hero {
   background-color: var(--clr-primary-200);
 }
