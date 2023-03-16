@@ -240,6 +240,8 @@ section,
 .nav-list a {
   color: var(--clr-neutral-800);
   text-decoration: none;
+  font-size: var(--fs-400);
+  font-weight: var(--fw-400);
 }
 
 .nav-list a:focus,
