@@ -12,8 +12,8 @@ tags:
 image: /assets/blog/main-page-for-style-stafe.png
 imageAlt: "Image of the main page for my theme of the Style Stage template "
 ---
-### D﻿escription of Website - Style Stage: Shimmering Stars
+### Description of Website - Style Stage: Shimmering Stars
 
-[L﻿ink to Shimmering Stars](https://stylestage.dev/styles/shimmering-stars/)
+[Link to Shimmering Stars](https://stylestage.dev/styles/shimmering-stars/)
 
-T﻿his is my theme of the Style Stage challenge that was made by Stephanie Eckles, a web developer, where she has a website that explains the challenge in more detail. The challenge for this was it was to customize the Style Stage purely through Sass CSS without touching anything in regards to the already-made HTML that served to help customize the stage. Using the style tile that I made in Figma beforehand to help me out with the theme of my version of the Style Stage, I was successfully able to get the outcome of it with improvements that I saw with my CSS skills too.
+This is my theme of the Style Stage challenge that was made by Stephanie Eckles, a web developer, where she has a website that explains the challenge in more detail. The challenge for this was it was to customize the Style Stage purely through Sass CSS without touching anything in regards to the already-made HTML that served to help customize the stage. Using the style tile that I made in Figma beforehand to help me out with the theme of my version of the Style Stage, I was successfully able to get the outcome of it with improvements that I saw with my CSS skills too.

@@ -11,8 +11,8 @@ tags:
 image: /assets/blog/girlswhocode2021.wordpress.com_.png
 imageAlt: "Full screenshot of the homepage to the site "
 ---
-### D﻿escription of Website - Digital Memory Book
+### Description of Website - Digital Memory Book
 
-[﻿Link to Digital Memory Book](https://girlswhocode2021.wordpress.com/)
+[Link to Digital Memory Book](https://girlswhocode2021.wordpress.com/)
 
-T﻿his was a side project that I created for Girls Who Code, a club I participated in when I was in high school, where I had the thought of making a website that kept track of the memorable moments that happened in our meetings. Thus, the theme of a Digital Memory Book came to my mind but in the form of a website of course. This was my first experience using WordPress and how I learned to navigate with the features of WordPress to result with what's the final draft of the website.
+This was a side project that I created for Girls Who Code, a club I participated in when I was in high school, where I had the thought of making a website that kept track of the memorable moments that happened in our meetings. Thus, the theme of a Digital Memory Book came to my mind but in the form of a website of course. This was my first experience using WordPress and how I learned to navigate with the features of WordPress to result with what's the final draft of the website.
