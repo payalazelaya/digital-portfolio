@@ -1,8 +1,8 @@
 ---
 title: Tradtional Design - Blossoming of Roses and Thorns
 author: "Paola Ayala Zelaya "
-description: Image of an assignment related to one of the principles of art,
-  Line, for 2D Design
+description: Image of an assignment that focused on one of the principles of
+  art, Line for 2D Design
 date: 2022-02-18T01:10:51.917Z
 tags:
   - post
