@@ -2,7 +2,7 @@
 title: "Interactive Multimedia - Glimpse Into Avant Garde "
 author: Paola Ayala Zelaya
 description: "Sample image of the introductory slide to the interactive PowerPoint "
-date: 2023-03-10T03:02:01.370Z
+date: 2021-12-14T03:02:01.370Z
 tags:
   - post
   - interactive-multimedia
