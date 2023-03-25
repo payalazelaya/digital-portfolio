@@ -1,8 +1,7 @@
 ---
-title: Web Design - Simple Poem Site
+title: "Web Design - Simple Poem Site: Bed in Summer"
 author: Paola Ayala Zelaya
-description: A sample image showing the layout of a basic poem website done
-  through HTML and CSS
+description: Image showing the layout of a basic poem website done through HTML and CSS
 date: 2022-10-02T16:37:12.544Z
 tags:
   - post
