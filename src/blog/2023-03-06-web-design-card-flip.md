@@ -3,7 +3,7 @@ title: Web Design - Card Flip
 author: Paola Ayala Zelaya
 description: Static front and back view of an animated card done through Sass
   CSS with the help of HTML
-date: 2023-03-08T02:16:33.664Z
+date: 2022-11-21T02:16:33.664Z
 tags:
   - post
   - websites
