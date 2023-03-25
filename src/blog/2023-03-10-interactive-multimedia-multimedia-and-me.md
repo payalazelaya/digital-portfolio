@@ -1,7 +1,7 @@
 ---
-title: Interactive Multimedia - Multimedia and Me
+title: "Interactive Multimedia - Multimedia and Me Presentation "
 author: "Paola Ayala Zelaya "
-description: "Sample image of the introductory slide of an interactive PowerPoint "
+description: "Image of the static preview of the introductory slide for Multimedia and Me "
 date: 2021-11-22T02:15:15.606Z
 tags:
   - post
