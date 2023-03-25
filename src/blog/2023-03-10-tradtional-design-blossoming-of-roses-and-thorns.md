@@ -3,7 +3,7 @@ title: Tradtional Design - Blossoming of Roses and Thorns
 author: "Paola Ayala Zelaya "
 description: Image of an assignment related to one of the principles of art,
   Line, for 2D Design
-date: 2023-03-11T01:10:51.917Z
+date: 2022-02-18T01:10:51.917Z
 tags:
   - post
   - traditional-design
