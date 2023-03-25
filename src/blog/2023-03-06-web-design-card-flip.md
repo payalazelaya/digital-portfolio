@@ -19,4 +19,4 @@ One of the assignments done in Web Development II was creating an animated card 
 
 Down below is the back side of the card when the mouse is hovered over so it could flip:
 
-[Screenshot of the back side to the card when the mouse is hovered over to flip it](/assets/blog/card-flip-back-page.png "Back side of the card when flipped over through mouse hover")
+![The back side of the card that features personal info about Jun](/assets/blog/card-flip-back-page.png "Back side of card ")
