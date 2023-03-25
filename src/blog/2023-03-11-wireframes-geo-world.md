@@ -3,7 +3,7 @@ title: Wireframes - Geo World
 author: Paola Ayala Zelaya
 description: Preview images of connected wireframes to a prototype of an
   transportation request app for a museum
-date: 2023-03-11T21:00:43.906Z
+date: 2022-03-21T20:00:43.906Z
 tags:
   - post
   - wireframes
