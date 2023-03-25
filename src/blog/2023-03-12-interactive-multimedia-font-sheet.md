@@ -3,7 +3,7 @@ title: Interactive Multimedia - Font Sheet
 author: "Paola Ayala Zelaya "
 description: Image of the font sheet that assisted with the design documentation
   for Glimpse into Avant-Garde
-date: 2023-03-11T23:52:22.710Z
+date: 2021-12-13T23:52:22.710Z
 tags:
   - post
   - interactive-multimedia
