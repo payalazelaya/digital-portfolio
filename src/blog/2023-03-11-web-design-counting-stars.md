@@ -1,7 +1,7 @@
 ---
-title: Web Design - Counting Stars
+title: Web Design - Counting Stars Animation
 author: "Paola Ayala Zelaya "
-description: "Image of the static view of an actual SVG animation of certain elements "
+description: Image of the static view of an SVG animation
 date: 2022-11-18T20:18:09.373Z
 tags:
   - post
