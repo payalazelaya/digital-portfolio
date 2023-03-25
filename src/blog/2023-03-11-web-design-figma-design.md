@@ -1,8 +1,8 @@
 ---
-title: Web Design - Figma Design
+title: "Web Design - Figma Design Practice "
 author: Paola Ayala Zelaya
-description: "Sample image of how color coordinating elements leads to clean
-  design layouts "
+description: Image of how color coordinating elements leads to clean design
+  layouts through Figma
 date: 2022-11-06T22:23:20.296Z
 tags:
   - post
