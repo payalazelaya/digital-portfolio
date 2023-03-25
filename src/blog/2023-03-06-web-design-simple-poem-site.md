@@ -3,7 +3,7 @@ title: Web Design - Simple Poem Site
 author: Paola Ayala Zelaya
 description: A sample image showing the layout of a basic poem website done
   through HTML and CSS
-date: 2023-03-08T17:37:12.544Z
+date: 2022-10-02T16:37:12.544Z
 tags:
   - post
   - websites
