@@ -1,8 +1,9 @@
 ---
-title: Traditional Design - Desaturated Browns, Natural vs Artificial Colors
+title: Traditional Design - Desaturated Browns and Natural vs Artificial Colors
+  Painting
 author: "Paola Ayala Zelaya "
 description: Gouache painting of a landscape in desaturated browns in contrast
-  with the celebratory items in saturated colors
+  with the celebratory items in artificial colors
 date: 2022-11-02T16:30:06.676Z
 tags:
   - post
