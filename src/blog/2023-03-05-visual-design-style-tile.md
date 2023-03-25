@@ -3,7 +3,7 @@ title: Visual Design - Style Tile
 author: Paola Ayala Zelaya
 description: A style tile done in Figma that covers design choices for the
   layout of a particular website
-date: 2023-03-08T00:12:44.829Z
+date: 2022-12-05T00:12:44.829Z
 tags:
   - post
   - featured
