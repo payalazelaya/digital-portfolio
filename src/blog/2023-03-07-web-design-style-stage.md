@@ -3,7 +3,7 @@ title: "Web Design - Style Stage "
 author: Paola Ayala Zelaya
 description: Sample image of the main page for my theme of the Style Stage
   challenge, Shimmering Stars
-date: 2022-12-15T17:57:14.945Z
+date: 2022-12-17T17:57:14.945Z
 tags:
   - post
   - featured
