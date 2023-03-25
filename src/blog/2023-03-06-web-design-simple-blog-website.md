@@ -1,8 +1,8 @@
 ---
-title: "Web Design - Simple Blog Website "
+title: "Web Design - Simple Personal Blog Website "
 author: Paola Ayala Zelaya
-description: A sample image of the homepage to my personal blog website edited
-  through Netlify CMS
+description: Image of the homepage to my personal blog website edited through
+  Netlify CMS and run through Eleventy
 date: 2022-11-28T03:03:14.746Z
 tags:
   - post
