@@ -1,8 +1,8 @@
 ---
-title: Visual Design - Repeating Pattern
+title: Visual Design - Repeating Pattern for Eye See You
 author: Paola Ayala Zelaya
-description: A repeated pattern design used for the front and back cover of my
-  2D Design final project
+description: Image of a repeated pattern design used for the front and back
+  cover of my Eye See You for 2D Design
 date: 2022-04-14T23:26:18.679Z
 tags:
   - post
