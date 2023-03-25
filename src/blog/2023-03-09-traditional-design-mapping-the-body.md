@@ -1,7 +1,7 @@
 ---
 title: "Traditional Design - Mapping The Body: Eye See You"
 author: Paola Ayala Zelaya
-description: Full picture of the extended layout for the final project from 2D Design
+description: Full picture of the extended layout of the final project from 2D Design
 date: 2022-04-28T19:12:27.279Z
 tags:
   - post
