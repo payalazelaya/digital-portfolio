@@ -3,7 +3,7 @@ title: Web Design - Girls Who Code Digital Memory Book Site
 author: "Paola Ayala Zelaya "
 description: "WordPress website structured to be a digital memory book of the
   memorable moments that happened in Girls Who Code "
-date: 2023-03-17T03:31:04.987Z
+date: 2021-06-23T01:20:36.011Z
 tags:
   - post
   - websites
