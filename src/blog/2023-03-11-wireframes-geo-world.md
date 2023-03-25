@@ -1,8 +1,8 @@
 ---
 title: Wireframes - Geo World Transportation Request
 author: Paola Ayala Zelaya
-description: Preview images of connected wireframes to a prototype of an
-  transportation request app for a museum
+description: Images of connected wireframes for a prototype of an transportation
+  request app for a museum
 date: 2022-03-21T20:00:43.906Z
 tags:
   - post
