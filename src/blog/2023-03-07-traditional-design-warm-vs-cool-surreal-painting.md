@@ -1,5 +1,6 @@
 ---
-title: Traditional Design - Warm vs Cool, Interior vs Exterior, Surrealism
+title: Traditional Design - Warm vs Cool, Interior vs Exterior, and Surrealism
+  Painting
 author: "Paola Ayala Zelaya "
 description: Gouache painting of a dog looking out of a window to gaze at the
   floating shapes it sees outside
