@@ -2,7 +2,7 @@
 title: Traditional Design - Mapping The Body
 author: Paola Ayala Zelaya
 description: Picture of the final project for 2D Design
-date: 2023-03-09T20:12:27.279Z
+date: 2022-04-28T19:12:27.279Z
 tags:
   - post
   - traditional-design
