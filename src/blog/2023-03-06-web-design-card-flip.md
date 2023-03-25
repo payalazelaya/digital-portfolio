@@ -1,5 +1,5 @@
 ---
-title: "Web Design - Card Flip: Music Themed"
+title: "Web Design - Card Flip: Music Theme"
 author: Paola Ayala Zelaya
 description: Images of the static front and back view of an animated card done
   through Sass CSS and HTML
