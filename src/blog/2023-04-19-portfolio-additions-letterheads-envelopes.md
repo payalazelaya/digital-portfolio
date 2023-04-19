@@ -16,7 +16,7 @@ L﻿etterheads are crucial in having them for a business when it comes to sendin
 
 ![Back side of the envelope that corresponds with the 1st draft letterhead; it features one version of a logo in the tab portion and my catchprase at the bottom center](/assets/blog/back-envelope-1.png "Back side of Envelope 1")
 
-_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ![2nd version of a draft letterhead featuring sample text and layout](/assets/blog/2nd-letterhead.png "2nd version of Draft Letterhead ")
 
