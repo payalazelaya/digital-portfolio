@@ -1,9 +1,9 @@
 ---
 title: Portfolio Additions - Business Cards
 author: Paola Ayala Zelaya
-description: Draft sketches of business cards that not only fit with my
-  portfolio's theme, but fit in giving them out to actual clients
-date: 2023-04-19T01:29:21.944Z
+description: Draft sketches of business cards that would be personal points of
+  external contact
+date: 2023-04-19T16:19:18.667Z
 tags:
   - post
   - extras
