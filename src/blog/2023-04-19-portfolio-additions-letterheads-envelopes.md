@@ -28,6 +28,6 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ![3rd version of a draft letterhead featuring sample text and layout](/assets/blog/3rd-letterhead.png "3rd version of Draft Letterhead")
 
-![](/assets/blog/front-envelope-3.png)
+![Front side of the envelope that corresponds with the 3rd draft letterhead; it features one version of a logo and contact information on the left side](/assets/blog/front-envelope-3.png "Front side of Envelope 3")
 
-![](/assets/blog/back-envelope-3.png)
+![Back side of the envelope that corresponds with the 3rd draft letterhead; it features one version of a logo on the tab, while my catchprase is at the bottom](/assets/blog/back-envelope-3.png "Back side of Envelope 3")
