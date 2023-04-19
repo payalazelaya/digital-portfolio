@@ -3,7 +3,7 @@ title: Portfolio Additions - Business Cards
 author: Paola Ayala Zelaya
 description: Draft sketches of business cards that would be personal points of
   external contact
-date: 2023-04-19T16:19:18.667Z
+date: 2023-04-19T16:34:48.114Z
 tags:
   - post
   - extras
