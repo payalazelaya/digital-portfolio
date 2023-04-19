@@ -12,7 +12,7 @@ imageAlt: 1st version of a draft letterhead featuring sample text and layout
 ---
 L﻿etterheads are crucial in having them for a business when it comes to sending out official letters or notices to a client, thus why having practice with drafting them was fun to explore. Down below are the envelope sketches for my 1st version draft letterhead, along with the 2nd and 3rd version draft letterheads with their corresponding envelopes too. 
 
-### E﻿nvelopes for 1st Draft Letterhead
+## E﻿nvelopes for 1st Draft Letterhead
 
 ![Front side of the envelope that corresponds with the 1st draft letterhead; it features one version of a logo and contact information in the upper left corner](/assets/blog/front-envelope-1.png "Front side of Envelope 1 ")
 
@@ -20,7 +20,7 @@ L﻿etterheads are crucial in having them for a business when it comes to sendin
 
 _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### 2nd Draft Letterhead and its Envelope
+## 2nd Draft Letterhead and its Envelope
 
 ![2nd version of a draft letterhead featuring sample text and layout](/assets/blog/2nd-letterhead.png "2nd version of Draft Letterhead ")
 
@@ -30,7 +30,7 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### 3﻿rd Draft Letterhead and its Envelope
+## 3﻿rd Draft Letterhead and its Envelope
 
 ![3rd version of a draft letterhead featuring sample text and layout](/assets/blog/3rd-letterhead.png "3rd version of Draft Letterhead")
 
