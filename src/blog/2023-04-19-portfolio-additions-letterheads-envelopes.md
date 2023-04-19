@@ -8,7 +8,8 @@ tags:
   - post
   - extras
 image: /assets/blog/preview-img-for-letterhead-post.png
-imageAlt: 1st version of a draft letterhead featuring sample text and layout
+imageAlt: Preview picture design introducing the topic of the post, letterheads
+  and envelopes
 ---
 L﻿etterheads are crucial in having them for a business when it comes to sending out official letters or notices to a client, thus why having practice with drafting them was fun to explore. Down below are the envelope sketches for my 1st version draft letterhead, along with the 2nd and 3rd version draft letterheads with their corresponding envelopes too. 
 
