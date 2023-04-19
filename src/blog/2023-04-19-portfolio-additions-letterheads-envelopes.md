@@ -3,16 +3,18 @@ title: Portfolio Additions - Letterheads & Envelopes
 author: Paola Ayala Zelaya
 description: Draft sketches of letterheads with corresponding envelopes that
   would be personal points of external contact
-date: 2023-04-19T16:27:39.954Z
+date: 2023-04-19T22:51:54.298Z
 tags:
   - post
   - extras
-image: /assets/blog/1st-letterhead.png
+image: /assets/blog/preview-img-for-letterhead-post.png
 imageAlt: 1st version of a draft letterhead featuring sample text and layout
 ---
 L﻿etterheads are crucial in having them for a business when it comes to sending out official letters or notices to a client, thus why having practice with drafting them was fun to explore. Down below are the envelope sketches for my 1st version draft letterhead, along with the 2nd and 3rd version draft letterheads with their corresponding envelopes too. 
 
-## E﻿nvelopes for 1st Draft Letterhead
+## 1﻿st Draft Letterhead and it's Envelope
+
+![1st version of a draft letterhead featuring sample text and layout](/assets/blog/1st-letterhead.png "1st version of Draft Letterhead")
 
 ![Front side of the envelope that corresponds with the 1st draft letterhead; it features one version of a logo and contact information in the upper left corner](/assets/blog/front-envelope-1.png "Front side of Envelope 1 ")
 
