@@ -1,9 +1,9 @@
 ---
 title: Portfolio Additions - Letterheads & Envelopes
 author: Paola Ayala Zelaya
-description: Draft sketches of letterheads with corresponding envelopes that go
-  along the portfolio's theme
-date: 2023-04-19T03:19:25.274Z
+description: Draft sketches of letterheads with corresponding envelopes that
+  would be personal points of external contact
+date: 2023-04-19T16:27:39.954Z
 tags:
   - post
   - extras
