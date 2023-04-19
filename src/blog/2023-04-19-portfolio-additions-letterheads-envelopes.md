@@ -7,7 +7,7 @@ date: 2023-04-19T22:58:59.938Z
 tags:
   - post
   - extras
-image: /assets/blog/preview-img-for-letterhead-post.png
+image: /assets/blog/preview-img-for-letterhead-post-1-.png
 imageAlt: Preview picture design introducing the topic of the post, letterheads
   and envelopes
 ---
