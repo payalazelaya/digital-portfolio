@@ -20,3 +20,5 @@ G﻿etting practice with drafting out sketches of business cards was where I mad
 ![Back side of second version of business card, featuring one version of a logo and my portfolio's catchprase](/assets/blog/back-of-card-2.png "Back side of 2nd version business card")
 
 ![Front side of second version of business card, featuring a contact session on the right and the card design all throughout the front side](/assets/blog/fromt-of-card-3.png "Front side of 3rd version business card")
+
+![Back side of third version of business card, featuring one version of a logo, my portfolio's catchprase, and a link to my portfolio website](/assets/blog/back-of-card-3.png "Back side of 3rd version business card")
