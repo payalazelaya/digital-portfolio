@@ -21,3 +21,13 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ![2nd version of a draft letterhead featuring sample text and layout](/assets/blog/2nd-letterhead.png "2nd version of Draft Letterhead ")
 
 ![Front side of the envelope that corresponds with the 2nd draft letterhead; it features one version of a logo and contact information on the left side](/assets/blog/front-envelope-2.png "Front side of Envelope 2")
+
+![Back side of the envelope that corresponds with the 2nd draft letterhead; it features one version of a logo and title name on the tab, while my catchprase is at the bottom](/assets/blog/back-envelope-2.png "Back side of Envelope 2")
+
+_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+![3rd version of a draft letterhead featuring sample text and layout](/assets/blog/3rd-letterhead.png "3rd version of Draft Letterhead")
+
+![](/assets/blog/front-envelope-3.png)
+
+![](/assets/blog/back-envelope-3.png)
