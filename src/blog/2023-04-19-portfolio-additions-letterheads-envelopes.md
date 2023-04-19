@@ -15,3 +15,9 @@ L﻿etterheads are crucial in having them for a business when it comes to sendin
 ![Front side of the envelope that corresponds with the 1st draft letterhead; it features one version of a logo and contact information in the upper left corner](/assets/blog/front-envelope-1.png "Front side of Envelope 1 ")
 
 ![Back side of the envelope that corresponds with the 1st draft letterhead; it features one version of a logo in the tab portion and my catchprase at the bottom center](/assets/blog/back-envelope-1.png "Back side of Envelope 1")
+
+_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+![2nd version of a draft letterhead featuring sample text and layout](/assets/blog/2nd-letterhead.png "2nd version of Draft Letterhead ")
+
+![Front side of the envelope that corresponds with the 2nd draft letterhead; it features one version of a logo and contact information on the left side](/assets/blog/front-envelope-2.png "Front side of Envelope 2")
