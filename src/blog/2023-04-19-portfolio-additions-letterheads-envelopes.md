@@ -10,4 +10,4 @@ tags:
 image: /assets/blog/1st-letterhead.png
 imageAlt: 1st version of a draft letterhead featuring sample text and layout
 ---
-L﻿etterheads are key in having them for a business when it comes to sending out mail regarding the business, thus why having practice with drafting them was fun to explore.
+L﻿etterheads are crucial in having them for a business when it comes to sending out official letters or notices to a client, thus why having practice with drafting them was fun to explore. Down below are the envelope sketches for my 1st version draft letterhead, along with the 2nd and 3rd version draft letterheads with their corresponding envelopes too.
