@@ -7,9 +7,9 @@ date: 2022-11-06T19:55:20.638Z
 tags:
   - post
   - ui-design
-image: /assets/blog/cat-ui-design.png
+image: /assets/blog/cat-ui-design-2.png
 imageAlt: "A layout of a UI element that features a cat emoji, subtitle
-  headings, main headings, body text, and buttons "
+  headings, main headings and body text "
 ---
 [L﻿ink to Codepen](https://codepen.io/payalazelaya/full/xxjazZg)
 
