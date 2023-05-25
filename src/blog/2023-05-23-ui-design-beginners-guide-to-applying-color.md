@@ -3,7 +3,7 @@ title: UI Design - Beginner's Guide to Applying Color
 author: Paola Ayala Zelaya
 description: Featured UI layout that's customizable to follow a certain
   monochromatic color scheme
-date: 2022-11-06T19:55:20.638Z
+date: 2022-10-23T18:55:20.638Z
 tags:
   - post
   - ui-design
